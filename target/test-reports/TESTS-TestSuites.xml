@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="ghummer-mbp.local" id="0" name="StoreControllerSpec" package="gtunes" tests="3" time="3.311" timestamp="2015-05-13T21:45:36">
+      <properties />
+
+      <testcase classname="gtunes.StoreControllerSpec" name="test something" time="3.026" />
+
+      <testcase classname="gtunes.StoreControllerSpec" name="grailsApplication is not null" time="0.011" />
+
+      <testcase classname="gtunes.StoreControllerSpec" name="test index" time="0.017" />
+
+      <system-out><![CDATA[--Output from test something--
+--Output from grailsApplication is not null--
+--Output from test index--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+--Output from grailsApplication is not null--
+--Output from test index--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
