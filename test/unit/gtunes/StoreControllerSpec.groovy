@@ -35,3 +35,5 @@ class StoreControllerSpec extends Specification {
         response.text == 'Welcome to the gTunes store!'
     }
 }
+
+

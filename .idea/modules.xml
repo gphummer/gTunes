@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gTunes.iml" filepath="$PROJECT_DIR$/gTunes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gTunes-grailsPlugins.iml" filepath="$PROJECT_DIR$/gTunes-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
